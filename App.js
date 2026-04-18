@@ -69,6 +69,7 @@ export default function App() {
   const [nota2, setNota2] = useState("");
   const [nota3, setNota3] = useState("");
   const [rezultati, setRezultati] = useState("");
+  // e shtova nje koment
 
   const kalkuloMesataren = () => {
     let n1 = Number(nota1);
